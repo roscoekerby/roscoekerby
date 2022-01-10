@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Science (especially Computer Science)
 - 🌱 I’m currently learning ... lots (Computer Science is ever-evolving and I aim to evolve/learn with the times)
 - 💞️ I’m looking to collaborate on ... projects (Software Engineering projects in particular)
-- 📫 How to reach me ... email (lol) roscoe.kerby@gmail.com or instagram: roscoe_kerby_official
+- 📫 How to reach me ... email (lol) roscoe.kerby@gmail.com
 
 <!---
 roscoekerby/roscoekerby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
