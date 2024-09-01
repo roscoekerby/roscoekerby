@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @roscoekerby (Roscoe Kerby [ROSCODE])
-- 👀 I’m passionate about AI, Machine Learning, and all things Computer Science, especially when integrating these into applications for the public
+- 👀 I’m passionate about AI, Machine Learning, and all things Computer Science
 - 🚀 Constantly expanding my knowledge in AI/ML, staying ahead in this fast-paced field
 - 🤝 Looking to collaborate on AI-driven projects and innovative software engineering solutions
 - 📧 Reach me at [admin@runtime.withroscoe.com](mailto:admin@runtime.withroscoe.com) for opportunities or AI discussions
