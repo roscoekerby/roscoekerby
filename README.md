@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @roscoekerby (Roscoe Kerby)
-- 👀 I’m interested in Science (especially Computer Science)
-- 🌱 I’m currently learning lots (Computer Science is ever-evolving and I aim to evolve/learn with the times)
-- 💞️ I’m looking to collaborate on projects (Software Engineering projects in particular)
-- 📫 How to reach me email (lol) roscoe.kerby@gmail.com
+- 👋 Hi, I’m @roscoekerby (Roscoe Kerby [ROSCODE])
+- 👀 I’m passionate about AI, Machine Learning, and all things Computer Science, especially when integrating these into applications for the public
+- 🚀 Constantly expanding my knowledge in AI/ML, staying ahead in this fast-paced field
+- 🤝 Looking to collaborate on AI-driven projects and innovative software engineering solutions
+- 📧 Reach me at [admin@runtime.withroscoe.com](mailto:admin@runtime.withroscoe.com) for opportunities or AI discussions
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/roscoekerby/)
+- 🌐 Visit my [Website](https://runtime.withroscoe.com/)
 
 <!---
 roscoekerby/roscoekerby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
