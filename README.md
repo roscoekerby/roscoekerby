@@ -1,4 +1,4 @@
-👋 Hi, I’m **Roscoe Kerby** ([@roscoekerby](https://github.com/roscoekerby)), also known as **Roscode** – a qualified **Computer Vision Engineer** certified by [OpenCV University](https://opencv.org/university/).
+👋 Hi, I’m **Roscoe Kerby** ([@roscoekerby](https://github.com/roscoekerby)), also known as **ROSCODE** – a qualified **Computer Vision Engineer** certified by [OpenCV University](https://opencv.org/university/).
 
 👀 I’m deeply passionate about **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and all things Computer Science. My work and interests are centred around applying cutting-edge technology to real-world challenges.
 
