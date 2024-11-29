@@ -4,7 +4,7 @@
 
 🚀 I’m constantly expanding my expertise in **AI/ML**, with a special focus on Computer Vision tasks and innovative solutions.
 
-🤝 Always eager to collaborate on [**AI-driven projects**](https://github.com/roscoekerby/artificial-intelligence) and **groundbreaking software engineering solutions**. Let’s build the future together!
+🤝 Open to collaborating on [**AI-driven projects**](https://github.com/roscoekerby/artificial-intelligence) and groundbreaking software engineering solutions when the opportunity aligns. Let’s build something impactful together! 
 
 📧 Feel free to reach out at [admin@runtime.withroscoe.com](mailto:admin@runtime.withroscoe.com) for work opportunities or engaging AI discussions.
 
