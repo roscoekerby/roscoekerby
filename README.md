@@ -1,11 +1,16 @@
-- 👋 Hi, I’m @roscoekerby (Roscoe Kerby [ROSCODE]), a qualified Computer Vision (CV) Engineer [OpenCV University](https://opencv.org/university/)
-- 👀 I’m passionate about [AI](https://github.com/roscoekerby/artificial-intelligence), Machine Learning, and all things Computer Science
-- 🚀 Constantly expanding my knowledge in AI/ML, with a focus on CV tasks
-- 🤝 Looking to collaborate/work on AI-driven projects and innovative software engineering solutions
-- 📧 Reach me at [admin@runtime.withroscoe.com](mailto:admin@runtime.withroscoe.com) for opportunities or AI discussions
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/roscoekerby/)
-- 🌐 Visit my [Website](https://runtime.withroscoe.com/)
-- ✍️ Read my articles on [Medium](https://medium.com/@roscoe.kerby)
+👋 Hi, I’m **Roscoe Kerby** ([@roscoekerby](https://github.com/roscoekerby)), also known as **Roscode** – a qualified **Computer Vision Engineer** certified by [OpenCV University](https://opencv.org/university/).
+
+👀 I’m deeply passionate about **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and all things Computer Science. My work and interests are centred around applying cutting-edge technology to real-world challenges.
+
+🚀 I’m constantly expanding my expertise in **AI/ML**, with a special focus on Computer Vision tasks and innovative solutions.
+
+🤝 Always eager to collaborate on (**AI-driven projects**)[https://github.com/roscoekerby/artificial-intelligence] and **groundbreaking software engineering solutions**. Let’s build the future together!
+
+📧 Feel free to reach out at [admin@runtime.withroscoe.com](mailto:admin@runtime.withroscoe.com) for work opportunities or engaging AI discussions.
+
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/roscoekerby/)  
+🌐 Explore more on my [Website](https://runtime.withroscoe.com/)  
+✍️ Read my latest insights on [Medium](https://medium.com/@roscoe.kerby)
 
 <!---
 roscoekerby/roscoekerby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
