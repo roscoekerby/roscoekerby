@@ -7,6 +7,7 @@
 🤝 Always eager to collaborate on [**AI-driven projects**](https://github.com/roscoekerby/artificial-intelligence) and **groundbreaking software engineering solutions**. Let’s build the future together!
 
 📧 Feel free to reach out at [admin@runtime.withroscoe.com](mailto:admin@runtime.withroscoe.com) for work opportunities or engaging AI discussions.
+
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/roscoekerby/)  
 🌐 Explore more on my [Website](https://runtime.withroscoe.com/)  
 ✍️ Read my latest insights on [Medium](https://medium.com/@roscoe.kerby)
