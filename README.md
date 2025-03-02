@@ -10,6 +10,6 @@
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/roscoekerby/)  
 
-🌐 Explore more on my work [Website](https://runtime.withroscoe.com/)  
+🌐 Explore more on my work [RuntimeWithRoscoe](https://runtime.withroscoe.com/)  
 
 ✍️ Read my latest insights on [Medium](https://medium.com/@roscoe.kerby)
