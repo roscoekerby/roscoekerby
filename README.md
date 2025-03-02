@@ -6,7 +6,7 @@
 
 🤝 Always open to collaborating on [**AI-driven projects**](https://github.com/roscoekerby/artificial-intelligence), groundbreaking software engineering solutions, and exciting tech ventures. Let’s create something impactful!
 
-📧 Find my contact details at [Website](https://roscodetech.com/) for work opportunities or AI discussions.
+📧 Find my contact details at [ROSCODE TECH](https://roscodetech.com/) for work opportunities or AI discussions.
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/roscoekerby/)  
 
